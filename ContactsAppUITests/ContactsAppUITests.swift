@@ -1,10 +1,3 @@
-//
-//  ContactsAppUITests.swift
-//  ContactsAppUITests
-//
-//  Created by SATHISH on 5/27/19.
-//  Copyright © 2019 sathish. All rights reserved.
-//
 
 import XCTest
 

@@ -27,7 +27,7 @@ import UIKit
 /**
 UIView hierarchy category.
 */
-@objc public extension UIView {
+public extension UIView {
     
     ///----------------------
     /// MARK: viewControllers
@@ -322,7 +322,7 @@ UIView hierarchy category.
     
 }
 
-@objc public extension UIViewController {
+public extension UIViewController {
 
     func parentIQContainerViewController() -> UIViewController? {
         return self

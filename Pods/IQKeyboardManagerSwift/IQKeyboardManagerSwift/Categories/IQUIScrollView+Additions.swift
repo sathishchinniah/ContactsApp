@@ -27,7 +27,7 @@ import UIKit
 private var kIQShouldIgnoreScrollingAdjustment      = "kIQShouldIgnoreScrollingAdjustment"
 private var kIQShouldRestoreScrollViewContentOffset = "kIQShouldRestoreScrollViewContentOffset"
 
-@objc public extension UIScrollView {
+public extension UIScrollView {
     
     /**
      If YES, then scrollview will ignore scrolling (simply not scroll it) for adjusting textfield position. Default is NO.

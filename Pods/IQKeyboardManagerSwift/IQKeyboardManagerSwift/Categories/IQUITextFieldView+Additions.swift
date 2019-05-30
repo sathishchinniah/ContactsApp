@@ -37,7 +37,7 @@ private var kIQIgnoreSwitchingByNextPrevious = "kIQIgnoreSwitchingByNextPrevious
 /**
 UIView category for managing UITextField/UITextView
 */
-@objc public extension UIView {
+public extension UIView {
 
     /**
      To set customized distance from keyboard for textField/textView. Can't be less than zero
